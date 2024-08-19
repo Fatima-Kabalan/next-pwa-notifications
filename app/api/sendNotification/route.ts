@@ -1,4 +1,3 @@
-// app/api/sendNotification/route.ts
 import { NextRequest, NextResponse } from "next/server";
 import webPush from "web-push";
 
