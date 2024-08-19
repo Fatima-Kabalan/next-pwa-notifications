@@ -16,17 +16,19 @@ Next.js App Router: Utilizes the latest features of Next.js with an App Router a
 <h1>Installation</h1>
 <p>Follow these steps to set up the project locally:</p>
 <p>1.Clone the repository:</p>
-        git clone https://github.com/Fatima-Kabalan/next-pwa-notifications.git
-        cd next-pwa-notifications
+    git clone https://github.com/Fatima-Kabalan/next-pwa-notifications.git
+
+    cd next-pwa-notifications
+    
 <p>2.Install dependencies:</p>
-        npm install
+    npm install
 <p>3.Run the development server:</p>
-        npm run dev 
+    npm run dev 
 <p>The app will be available at http://localhost:3000.</p>
 <p>4.Build for production:</p>
-        npm run build
+    npm run build
 <p>5.Start the production server:</p>
-        npm start
+    npm start
 </br>
 <h1>Usage</h1>
 <p>To use the PWA, follow these steps:
